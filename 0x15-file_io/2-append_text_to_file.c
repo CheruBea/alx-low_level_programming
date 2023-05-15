@@ -32,3 +32,7 @@ int append_text_to_file(const char *filename, char *text_content)
 
 	return (1);
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 04eb38dbe476d37f4d3b92b080b33e793a0f7c4e
